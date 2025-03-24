@@ -20,4 +20,3 @@ Laboratorio de List views and adapters
 ![imagen17](img/img17.png)
 ![imagen19](img/img19.png)
 ![imagen20](img/img20.png)
-![imagen21](img/img21.png)
